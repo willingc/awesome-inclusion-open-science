@@ -14,6 +14,7 @@
 This section contains organizations that foster and create inclusive collaboration in open science.
 
 - [COS Center for Open Science](https://www.cos.io/)
+- [Data Umbrella](https://www.dataumbrella.org/)
 - [NASA](https://https://science.nasa.gov/)
 - [NOAA National Oceanic and Atmospheric Administration](https://www.noaa.gov/)
 - [pyOpenSci](https://pyopensci.org)
