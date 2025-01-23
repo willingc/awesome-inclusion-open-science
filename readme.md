@@ -1,28 +1,30 @@
 # awesome-inclusion-open-science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources that foster inclusion in open science.
+> A curated list of organizations and resources that foster inclusive collaboration in open science.
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Resources](#resources)
+- [Historical Content](#historical-content)
 
 
-## Section
+## Resources
 
-About this section. Optional. Keep this short and focus on the list.
+This section contains organizations that foster and create inclusive collaboration in open science.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [pyOpenSci](https://pyopensci.org)
+- [rOpenSci](https://ropensci.org/)
+- [2i2c](https://2i2c.org/)
 
 
-## Another Section
+## Historical Content
 
-### Subsection
+This section contains content from the Internet Wayback Machine. These resources were active before January 20, 2025.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Research organizations
+
+- [NASA Office of Diversity and Inclusion - ODEO](https://web.archive.org/web/20241203234804/https://www.nasa.gov/odeo/))
 
 
 ## Contribute
