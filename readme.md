@@ -26,7 +26,7 @@ This section contains organizations that foster and create inclusive collaborati
 This section contains content from the Internet Archive Wayback Machine. These resources were active before January 20, 2025.
 
 - [NASA Office of Diversity and Inclusion - ODEO](https://web.archive.org/web/20241203234804/https://www.nasa.gov/odeo/)
-- [NASA TOPS Transform to Open Science Program](https://web.archive.org/web/20250117225447/https://science.nasa.gov/open-science/tops/) Excellent educational resources about open science research.
+- [NASA TOPS Transform to Open Science Program](https://web.archive.org/web/20250117225447/https://science.nasa.gov/open-science/tops/) Excellent educational resources about open science research. [Link to :octocat:](https://github.com/nasa/Transform-to-Open-Science)
 - [NASA Watch](https://nasawatch.com/) compiles news and historical content about NASA activities.
 
 
