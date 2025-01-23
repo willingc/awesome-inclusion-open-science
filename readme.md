@@ -24,8 +24,6 @@ This section contains organizations that foster and create inclusive collaborati
 
 This section contains content from the Internet Archive Wayback Machine. These resources were active before January 20, 2025.
 
-### Research organizations
-
 - [NASA Office of Diversity and Inclusion - ODEO](https://web.archive.org/web/20241203234804/https://www.nasa.gov/odeo/)
 - [NASA TOPS Transform to Open Science Program](https://web.archive.org/web/20250117225447/https://science.nasa.gov/open-science/tops/) Excellent educational resources about open science research.
 
