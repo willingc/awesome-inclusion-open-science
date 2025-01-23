@@ -21,6 +21,7 @@ This section contains organizations that foster and create inclusive collaborati
 - [rOpenSci](https://ropensci.org/)
 - [The Turing Way](https://book.the-turing-way.org/)
 - [2i2c](https://2i2c.org/)
+- [UNESCO Open Science](https://www.unesco.org/en/open-science)
 
 
 ## Historical Content
