@@ -24,7 +24,7 @@ This section contains content from the Internet Wayback Machine. These resources
 
 ### Research organizations
 
-- [NASA Office of Diversity and Inclusion - ODEO](https://web.archive.org/web/20241203234804/https://www.nasa.gov/odeo/))
+- [NASA Office of Diversity and Inclusion - ODEO](https://web.archive.org/web/20241203234804/https://www.nasa.gov/odeo/)
 
 
 ## Contribute
