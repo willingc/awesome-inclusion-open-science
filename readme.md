@@ -19,6 +19,7 @@ This section contains organizations that foster and create inclusive collaborati
 - [NOAA National Oceanic and Atmospheric Administration](https://www.noaa.gov/)
 - [pyOpenSci](https://pyopensci.org)
 - [rOpenSci](https://ropensci.org/)
+- [The Turing Way](https://book.the-turing-way.org/)
 - [2i2c](https://2i2c.org/)
 
 
