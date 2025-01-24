@@ -17,6 +17,7 @@ This section contains organizations that foster and create inclusive collaborati
 - [Data Umbrella](https://www.dataumbrella.org/)
 - [NASA](https://https://science.nasa.gov/)
 - [NOAA National Oceanic and Atmospheric Administration](https://www.noaa.gov/)
+- [NumFOCUS](https://numfocus.org/)
 - [pyOpenSci](https://pyopensci.org)
 - [Research Software Alliance ReSA](https://www.researchsoft.org/)
 - [rOpenSci](https://ropensci.org/)
