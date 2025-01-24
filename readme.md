@@ -19,6 +19,7 @@ This section contains organizations that foster and create inclusive collaborati
 - [NOAA National Oceanic and Atmospheric Administration](https://www.noaa.gov/)
 - [NOAA NMFS Fisheries Open Science](https://nmfs-opensci.github.io/)
 - [NumFOCUS](https://numfocus.org/)
+- [Openscapes](https://openscapes.org/)
 - [pyOpenSci](https://pyopensci.org)
 - [Research Software Alliance ReSA](https://www.researchsoft.org/)
 - [rOpenSci](https://ropensci.org/)
