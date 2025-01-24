@@ -34,6 +34,8 @@ This section contains content from the Internet Archive Wayback Machine. These r
 - [NASA Office of Diversity and Inclusion - ODEO](https://web.archive.org/web/20241203234804/https://www.nasa.gov/odeo/)
 - [NASA TOPS Transform to Open Science Program](https://web.archive.org/web/20250117225447/https://science.nasa.gov/open-science/tops/) Excellent educational resources about open science research. [Link to :octocat:](https://github.com/nasa/Transform-to-Open-Science)
 - [NASA Watch](https://nasawatch.com/) compiles news and historical content about NASA activities.
+- [White House Office of Science and Technology Policy OSTP](https://web.archive.org/web/20250116060814/https://www.whitehouse.gov/ostp/)
+- [White House OSTP Year of Open Science Recognition Challenge Awards](https://web.archive.org/web/20250116062759/https://www.whitehouse.gov/ostp/news-updates/2024/03/21/white-house-office-of-science-technology-policy-announces-year-of-open-science-recognition-challenge-winners/) includes [Project Jupyter](https://jupyter.org)'s recognition. 
 
 
 ## Contribute
