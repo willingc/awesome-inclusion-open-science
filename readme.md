@@ -21,6 +21,7 @@ This section contains organizations that foster and create inclusive collaborati
 - [Research Software Alliance ReSA](https://www.researchsoft.org/)
 - [rOpenSci](https://ropensci.org/)
 - [Software Sustainability Institute SSI](https://www.software.ac.uk/)
+- [The Journal of Open Source Software](https://joss.theoj.org/)
 - [The Turing Way](https://book.the-turing-way.org/)
 - [2i2c](https://2i2c.org/)
 - [UNESCO Open Science](https://www.unesco.org/en/open-science)
