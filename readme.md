@@ -29,6 +29,7 @@ This section contains organizations that foster and create inclusive collaborati
 - [2i2c](https://2i2c.org/)
 - [UNESCO Open Science](https://www.unesco.org/en/open-science)
 - [University of Arizona CCT Data Science Team](https://datascience.cct.arizona.edu/)
+- [The Carpentries](https://carpentries.org/)
 
 
 ## Historical Content
