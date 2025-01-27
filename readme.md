@@ -21,6 +21,7 @@ This section contains organizations that foster and create inclusive collaborati
 - [NumFOCUS](https://numfocus.org/)
 - [Openscapes](https://openscapes.org/)
 - [pyOpenSci](https://pyopensci.org)
+- [Python for Data Science](https://www.python4data.science/)
 - [Research Software Alliance ReSA](https://www.researchsoft.org/)
 - [rOpenSci](https://ropensci.org/)
 - [Software Sustainability Institute SSI](https://www.software.ac.uk/)
