@@ -14,6 +14,7 @@
 This section contains organizations that foster and create inclusive collaboration in open science.
 
 - [COS Center for Open Science](https://www.cos.io/)
+- [CURIOSS](https://curioss.org)
 - [Data Umbrella](https://www.dataumbrella.org/)
 - [NASA](https://https://science.nasa.gov/)
 - [NOAA National Oceanic and Atmospheric Administration](https://www.noaa.gov/)
@@ -26,6 +27,7 @@ This section contains organizations that foster and create inclusive collaborati
 - [Research Software Alliance ReSA](https://www.researchsoft.org/)
 - [rOpenSci](https://ropensci.org/)
 - [Software Sustainability Institute SSI](https://www.software.ac.uk/)
+- [SustainOSS](https://sustainoss.org)
 - [The Journal of Open Source Software](https://joss.theoj.org/)
 - [The Turing Way](https://book.the-turing-way.org/)
 - [2i2c](https://2i2c.org/)
