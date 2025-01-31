@@ -6,7 +6,7 @@
 ## Contents
 
 - [Resources](#resources)
-- [Open Data Stores](#data)
+- [Open Data Stores](#open-data-stores)
 - [Historical Content](#historical-content)
 
 
