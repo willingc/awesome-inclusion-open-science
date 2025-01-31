@@ -6,6 +6,7 @@
 ## Contents
 
 - [Resources](#resources)
+- [Open Data Stores](#data)
 - [Historical Content](#historical-content)
 
 
@@ -35,6 +36,11 @@ This section contains organizations that foster and create inclusive collaborati
 - [University of Arizona CCT Data Science Team](https://datascience.cct.arizona.edu/)
 - [The Carpentries](https://carpentries.org/)
 
+## Open Data Stores
+
+This section contains links to public, open data stores.
+
+- [Academic Torrents](https://academictorrents.com/) supported by [Institute for Reproducible Research](https://reproducibilityinstitute.org/w/)
 
 ## Historical Content
 
