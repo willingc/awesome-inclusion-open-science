@@ -14,6 +14,7 @@
 
 This section contains organizations that foster and create inclusive collaboration in open science.
 
+- [CHAOSS](https://chaoss.community)
 - [COS Center for Open Science](https://www.cos.io/)
 - [CURIOSS](https://curioss.org)
 - [Data Umbrella](https://www.dataumbrella.org/)
