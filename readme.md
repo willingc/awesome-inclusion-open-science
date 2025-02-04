@@ -56,6 +56,7 @@ This section contains links to tools and websites that preserve open science dat
 
 - [Mines Arthur Lakes Library - Archived Government Data](https://libguides.mines.edu/govinfo/archiveddata) - List of sites with archived government data.
 - [Public Environmental Data Project](https://screening-tools.com/) - "Committed to preserving and providing public access to federal environmental data."
+- [Safeguarding Research](https://safeguarding-research.discourse.group/) - Discourse group including tools for digital preservation.
 
 ## Historical Content
 
