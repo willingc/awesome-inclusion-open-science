@@ -12,6 +12,7 @@
 
 - [Resources](#resources) - Organizations that foster inclusive collaboration in Open Science.
 - [Open Data Stores](#open-data-stores) - Websites that store open datasets.
+- [Open Data Tools](#open-data-tools) - Tools and sites for preserving open scientific data.
 - [Historical Content](#historical-content) - Archive of Open Science materials.
 - [Contribute](#contribute)
 - [Attribution](#attribution)
@@ -48,6 +49,13 @@ This section contains organizations that foster and create inclusive collaborati
 This section contains links to public, open data stores.
 
 - [Academic Torrents](https://academictorrents.com/) - Supported by [Institute for Reproducible Research](https://reproducibilityinstitute.org/w/).
+
+## Open Data Tools
+
+This section contains links to tools and websites that preserve open science data.
+
+- [Mines Arthur Lakes Library - Archived Government Data](https://libguides.mines.edu/govinfo/archiveddata) - List of sites with archived government data.
+- [Public Environmental Data Project)(https://screening-tools.com/) - "Committed to preserving and providing public access to federal environmental data."
 
 ## Historical Content
 
