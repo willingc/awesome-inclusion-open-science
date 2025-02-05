@@ -62,6 +62,8 @@ This section contains links to tools and websites that preserve open science dat
 
 This section contains content from the Internet Archive Wayback Machine. These resources were active before January 20, 2025.
 
+- [ACOG The American College of Obstetrics and Gynecology](https://www.acog.org/clinical/clinical-guidance/acog-endorsed) - ACOG endorsed content pages
+  purged from the CDC website.
 - [NASA Office of Diversity and Inclusion - ODEO](https://web.archive.org/web/20241203234804/https://www.nasa.gov/odeo/)
 - [NASA TOPS Transform to Open Science Program](https://web.archive.org/web/20250117225447/https://science.nasa.gov/open-science/tops/) - Excellent educational resources about open science research.
   - [Link to :octocat: fork](https://github.com/willingc/Transform-to-Open-Science)
