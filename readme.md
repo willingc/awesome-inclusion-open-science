@@ -49,6 +49,8 @@ This section contains organizations that foster and create inclusive collaborati
 This section contains links to public, open data stores.
 
 - [Academic Torrents](https://academictorrents.com/) - Supported by [Institute for Reproducible Research](https://reproducibilityinstitute.org/w/).
+- [Python for Data Science](https://www.python4data.science/en/latest/data-processing/opendata.html) - Comprehensive
+  list of public repositories with research data.
 
 ## Open Data Tools
 
