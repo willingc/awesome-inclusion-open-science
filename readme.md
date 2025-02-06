@@ -76,6 +76,12 @@ This section contains content from the Internet Archive Wayback Machine. These r
 - [White House Office of Science and Technology Policy OSTP](https://web.archive.org/web/20250116060814/https://www.whitehouse.gov/ostp/)
 - [White House OSTP Year of Open Science Recognition Challenge Awards](https://web.archive.org/web/20250116062759/https://www.whitehouse.gov/ostp/news-updates/2024/03/21/white-house-office-of-science-technology-policy-announces-year-of-open-science-recognition-challenge-winners/) - Includes [Project Jupyter](https://jupyter.org)'s recognition.
 
+## Educational Materials Archive
+
+This section contains education lessons.
+
+- [NOAA National Oceanic and Atmospheric Administration](https://web.archive.org/web/20250206125004/https://www.noaa.gov/education) - Archived 2025-02-05.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines][1] first.
