@@ -67,6 +67,8 @@ This section contains content from the Internet Archive Wayback Machine. These r
 
 - [ACOG The American College of Obstetrics and Gynecology](https://www.acog.org/clinical/clinical-guidance/acog-endorsed) - ACOG endorsed content pages
   purged from the CDC website.
+- [GovWayback](https://govwayback.com/) - Take any `.gov` URL and add `wayback.com` right after `.gov`, and you'll be redirected to
+  the Wayback Machine's archived version of the page.
 - [NASA Office of Diversity and Inclusion - ODEO](https://web.archive.org/web/20241203234804/https://www.nasa.gov/odeo/)
 - [NASA TOPS Transform to Open Science Program](https://web.archive.org/web/20250117225447/https://science.nasa.gov/open-science/tops/) - Excellent educational resources about open science research.
   - [Link to :octocat: fork](https://github.com/willingc/Transform-to-Open-Science)
