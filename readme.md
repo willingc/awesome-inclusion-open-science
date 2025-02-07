@@ -69,6 +69,7 @@ This section contains content from the Internet Archive Wayback Machine. These r
   purged from the CDC website.
 - [GovWayback](https://govwayback.com/) - Take any `.gov` URL and add `wayback.com` right after `.gov`, and you'll be redirected to
   the Wayback Machine's archived version of the page.
+- [data.gov archive by the Harvard Library Innovation Lab](https://source.coop/repositories/harvard-lil/gov-data/description) - A complete archive of federal public datasets linked by data.gov harvested during 2024 and 2025. Part of the [Preserving Public U.S. Federal Data](https://lil.law.harvard.edu/blog/2025/01/30/preserving-public-u-s-federal-data/) project at Harvard Law School.
 - [NASA Office of Diversity and Inclusion - ODEO](https://web.archive.org/web/20241203234804/https://www.nasa.gov/odeo/)
 - [NASA TOPS Transform to Open Science Program](https://web.archive.org/web/20250117225447/https://science.nasa.gov/open-science/tops/) - Excellent educational resources about open science research.
   - [Link to :octocat: fork](https://github.com/willingc/Transform-to-Open-Science)
