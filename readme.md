@@ -80,9 +80,11 @@ This section contains content from the Internet Archive Wayback Machine. These r
 
 ## Educational Materials Archive
 
-This section contains education lessons.
+This section contains education lessons and programs.
 
+- [HHMI Inclusive Science](https://web.archive.org/web/20241213013632mp_/https://www.hhmi.org/inclusive-science) - [Science](https://www.science.org/content/article/hhmi-kills-program-aimed-boosting-inclusivity-stem-education) article for context.
 - [NOAA National Oceanic and Atmospheric Administration](https://web.archive.org/web/20250206125004/https://www.noaa.gov/education) - Archived 2025-02-05.
+
 
 ## Contribute
 
