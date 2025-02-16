@@ -40,6 +40,7 @@ This section contains organizations that foster and create inclusive collaborati
 - [SustainOSS](https://sustainoss.org)
 - [The Journal of Open Source Software](https://joss.theoj.org/)
 - [The Turing Way](https://book.the-turing-way.org/)
+- [Translate Science](https://translatescience.org/) - All-volunteer community of interest for multilingual open science.
 - [2i2c](https://2i2c.org/)
 - [UNESCO Open Science](https://www.unesco.org/en/open-science)
 - [University of Arizona CCT Data Science Team](https://datascience.cct.arizona.edu/)
